@@ -1,5 +1,5 @@
 # JupyterNotebookProjects
-This repository contains short projects / reports in JupyterNotebook that demonstrate skills in Python, LaTeX, NumPy, Pandas, RegEx, and MatPlotlib, demonstrating the ability to effectively communicate field-specific knowledge to a larger audience. 
+This repository contains short projects / reports in JupyterNotebook that demonstrates skills in Python, LaTeX, NumPy, Pandas, RegEx, and MatPlotlib, as well as the ability to effectively communicate field-specific knowledge to a larger audience. 
 
 The files can be generally described as follows:
 - Address Book: Coding project that takes data from the UB Directory and uses RegEx to return a reformatted directory of Names, Office location, Email, and Phone number
